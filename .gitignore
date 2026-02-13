@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.h5
+*.dll
+*.png
+*.jpg
+*.webp
+*.jpeg
+*.jfif
